@@ -4,7 +4,7 @@ A simple library for sending messages using a Discord Webhook in C#.NET.
 ### Usage
 This library is simple, in that it consists of only a single object, the `Webhook` object. Everytime you want to send a message, you can simply initialise a new object, specify the information, then call `Webhook.SendInstance()`.
 
-If you're in a memory-concious environment, and want to save system resources - you can just modify the values of an existing `Webhook` object and send it once again. That'll work in just the same way.
+If you're in a memory-conscious environment, and want to save system resources - you can just modify the values of an existing `Webhook` object and send it once again. That'll work in just the same way.
 
 ### Example
 
