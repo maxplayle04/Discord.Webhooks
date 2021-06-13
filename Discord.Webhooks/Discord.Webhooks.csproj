@@ -2,6 +2,14 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>1.0</PackageVersion>
+        <Title>Discord.Webhooks</Title>
+        <Authors>Max Playle</Authors>
+        <Description>A simple library for sending messages to a Discord Webhook in C#.NET.       </Description>
+        <Copyright>© Max Playle 2021</Copyright>
+        <PackageProjectUrl>https://github.com/maxplayle04/Discord.Webhooks</PackageProjectUrl>
+        <PackageReleaseNotes>Upload first version </PackageReleaseNotes>
     </PropertyGroup>
 
 </Project>
