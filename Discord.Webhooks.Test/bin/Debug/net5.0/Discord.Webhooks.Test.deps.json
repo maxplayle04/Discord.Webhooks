@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Discord.Webhooks.Test/1.0.0": {
+        "dependencies": {
+          "Discord.Webhooks": "1.0.0"
+        },
+        "runtime": {
+          "Discord.Webhooks.Test.dll": {}
+        }
+      },
+      "Discord.Webhooks/1.0.0": {
+        "runtime": {
+          "Discord.Webhooks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Discord.Webhooks.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Discord.Webhooks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

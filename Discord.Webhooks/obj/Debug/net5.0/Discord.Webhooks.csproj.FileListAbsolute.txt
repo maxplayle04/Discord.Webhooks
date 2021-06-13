@@ -1,0 +1,12 @@
+C:\Users\maxpl\RiderProjects\Discord.Webhooks\Discord.Webhooks\bin\Debug\net5.0\Discord.Webhooks.deps.json
+C:\Users\maxpl\RiderProjects\Discord.Webhooks\Discord.Webhooks\bin\Debug\net5.0\Discord.Webhooks.dll
+C:\Users\maxpl\RiderProjects\Discord.Webhooks\Discord.Webhooks\bin\Debug\net5.0\ref\Discord.Webhooks.dll
+C:\Users\maxpl\RiderProjects\Discord.Webhooks\Discord.Webhooks\bin\Debug\net5.0\Discord.Webhooks.pdb
+C:\Users\maxpl\RiderProjects\Discord.Webhooks\Discord.Webhooks\obj\Debug\net5.0\Discord.Webhooks.csprojAssemblyReference.cache
+C:\Users\maxpl\RiderProjects\Discord.Webhooks\Discord.Webhooks\obj\Debug\net5.0\Discord.Webhooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxpl\RiderProjects\Discord.Webhooks\Discord.Webhooks\obj\Debug\net5.0\Discord.Webhooks.AssemblyInfoInputs.cache
+C:\Users\maxpl\RiderProjects\Discord.Webhooks\Discord.Webhooks\obj\Debug\net5.0\Discord.Webhooks.AssemblyInfo.cs
+C:\Users\maxpl\RiderProjects\Discord.Webhooks\Discord.Webhooks\obj\Debug\net5.0\Discord.Webhooks.csproj.CoreCompileInputs.cache
+C:\Users\maxpl\RiderProjects\Discord.Webhooks\Discord.Webhooks\obj\Debug\net5.0\Discord.Webhooks.dll
+C:\Users\maxpl\RiderProjects\Discord.Webhooks\Discord.Webhooks\obj\Debug\net5.0\ref\Discord.Webhooks.dll
+C:\Users\maxpl\RiderProjects\Discord.Webhooks\Discord.Webhooks\obj\Debug\net5.0\Discord.Webhooks.pdb

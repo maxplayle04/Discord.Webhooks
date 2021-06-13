@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maxpl\\RiderProjects\\Discord.Webhooks\\Discord.Webhooks.Test\\Discord.Webhooks.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maxpl\\RiderProjects\\Discord.Webhooks\\Discord.Webhooks.Test\\Discord.Webhooks.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maxpl\\RiderProjects\\Discord.Webhooks\\Discord.Webhooks.Test\\Discord.Webhooks.Test.csproj",
+        "projectName": "Discord.Webhooks.Test",
+        "projectPath": "C:\\Users\\maxpl\\RiderProjects\\Discord.Webhooks\\Discord.Webhooks.Test\\Discord.Webhooks.Test.csproj",
+        "packagesPath": "C:\\Users\\maxpl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maxpl\\RiderProjects\\Discord.Webhooks\\Discord.Webhooks.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maxpl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\maxpl\\RiderProjects\\Discord.Webhooks\\Discord.Webhooks\\Discord.Webhooks.csproj": {
+                "projectPath": "C:\\Users\\maxpl\\RiderProjects\\Discord.Webhooks\\Discord.Webhooks\\Discord.Webhooks.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\maxpl\\RiderProjects\\Discord.Webhooks\\Discord.Webhooks\\Discord.Webhooks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maxpl\\RiderProjects\\Discord.Webhooks\\Discord.Webhooks\\Discord.Webhooks.csproj",
+        "projectName": "Discord.Webhooks",
+        "projectPath": "C:\\Users\\maxpl\\RiderProjects\\Discord.Webhooks\\Discord.Webhooks\\Discord.Webhooks.csproj",
+        "packagesPath": "C:\\Users\\maxpl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maxpl\\RiderProjects\\Discord.Webhooks\\Discord.Webhooks\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maxpl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
